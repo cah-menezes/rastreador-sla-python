@@ -1,0 +1,6 @@
+id;descricao;data_abertura;prazo_dias
+001;Acesso negado ao sistema;01/10/2026;5
+002;Senha expirada;08/10/2026;3
+003;Falha no backup;28/09/2026;7
+004;Permissao incorreta;10/10/2026;2
+005;Log de auditoria ausente;05/10/2026;10
