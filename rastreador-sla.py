@@ -35,5 +35,4 @@ def verificar_sla(status):
 if __name__ == "__main__":
     chamados = ler_chamados(CHAMADOS_CSV)
     verificar_sla(chamados)
-    pass
 
